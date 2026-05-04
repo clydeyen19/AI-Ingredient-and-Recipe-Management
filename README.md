@@ -1,6 +1,6 @@
 # 食材飲食管理
 
-Local-first 食材庫存與飲食紀錄 Web App。前端使用 React + Vite，後端使用 FastAPI + SQLite。OpenAI API 只由後端呼叫，前端不保存 API key。
+![CleanShot 2026-05-03 at 23.37.55](/Users/kuanyen/Library/Application Support/CleanShot/media/media_PdmzWIQMUO/CleanShot 2026-05-03 at 23.37.55.jpg)Local-first 食材庫存與飲食紀錄 Web App。前端使用 React + Vite，後端使用 FastAPI + SQLite。OpenAI API 只由後端呼叫，前端不保存 API key。
 
 ## 快速啟動
 
