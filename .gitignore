@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / Vite
+node_modules/
+dist/
+frontend/dist/
+
+# Local data
+data/
+backend/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# User uploads and generated outputs
+uploads/
+output/
+
+# Logs and OS metadata
+*.log
+.DS_Store
